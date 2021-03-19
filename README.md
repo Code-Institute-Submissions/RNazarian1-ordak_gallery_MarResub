@@ -61,5 +61,5 @@ The Gallry must be very friendly and easy to navigate. The visitors should feel 
 - Displayed pictures are permitted to use
 - The home page and general idea is inspired from Mini Project with Bootstrap 4 module
 - The contact form is more or less the same as the initial code of the Mini Project with Bootstrap 4 module
-- 
+
 
