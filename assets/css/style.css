@@ -3,7 +3,7 @@
 /*---Reference   http://www.varian.net/dreamview/dreamcolor/earth.html    */
 
 .bg-color-charcoal {
-    background-color: #676767;
+    background-color: #85cf0f;
 }
 
 .bg-color-lightgreen {
@@ -35,7 +35,7 @@
 }
 
 .bg-color-d4ceaf {
-    background-color: #d4ceaf;
+    background-color: #f38a00;
 }
 
 .bg-color-f00294 {
@@ -52,6 +52,10 @@
 
 .bg-color-1900ff77 {
     background-color: #1900ff77;
+}
+
+.bg-color-black {
+    background-color: #000000;
 }
 
 .bg-gal-image {
@@ -103,8 +107,8 @@
     font-family: "Roboto", sans-serif;
     font-weight: 250;
     font-size: 25px;
-    margin-top: 85px;
-    margin-bottom: 90px;
+    margin-top: 40px;
+    margin-bottom: 49px;
     color: floralwhite;
     margin-left: 5%;
     text-align: justify;
@@ -271,7 +275,7 @@ span:hover {
 
 .sect-span {
 
-    color: #f36412;
+    color: #2e1304;
     display: black;
     width: 100%;
     text-align: center;
