@@ -822,10 +822,10 @@ button {
   perspective: 1px;
   }
   .btn-secondary {
-    width: 40%;
+    width: 100px;
     margin-top: 6px;
     margin-bottom: 6px;
-    background-color: #f36412;
+    background-color: #fdb991;
     display: inline-block;
     font-weight: 400;
     color: #212529;
@@ -835,7 +835,7 @@ button {
     -moz-user-select: none;
     -ms-user-select: none;
     user-select: none;
-    background-color: rgb(248, 53, 79);
+    background-color: rgb(255, 157, 170);
     border: 1px solid transparent;
     padding: .375rem .75rem;
     font-size: 1rem;
@@ -845,6 +845,8 @@ button {
   }
 
   .center-form button[type="submit"] {
-    background-color: rgb(255, 0, 0);
+    /* background-color: rgb(255, 0, 0); */
+     background: linear-gradient(to right,
+     rgb(255, 92, 92) 0%, rgb(255, 198, 92) 20%, rgb(255, 255, 92) 40%, rgb(92, 255, 92) 60%, rgb(92, 92, 255) 100%);
     color: #2D2D2D;
 }
