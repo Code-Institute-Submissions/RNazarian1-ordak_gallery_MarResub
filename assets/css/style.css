@@ -3,7 +3,7 @@
 /*---Reference   http://www.varian.net/dreamview/dreamcolor/earth.html    */
 
 .bg-color-charcoal {
-    background-color: #85cf0f;
+    background-color: #ffffff;
 }
 
 .bg-color-lightgreen {
@@ -88,7 +88,7 @@
     font-size: 30px;
     margin-top: 50px;
     margin-bottom: 85px;
-    color: #e1f7ae;
+    color: #6b6b6b;
     margin-left: 5%;
 }
 
@@ -99,7 +99,7 @@
     font-size: 25px;
     margin-top: 85px;
     margin-bottom: 90px;
-    color: floralwhite;
+    color: #6b6b6b;
     margin-left: 5%;
 }
 
