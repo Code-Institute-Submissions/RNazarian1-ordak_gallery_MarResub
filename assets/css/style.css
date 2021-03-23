@@ -76,6 +76,7 @@
     height: auto;
 }
 
+
 /*--------------- texts ---------------------*/
 .header-gal-name {
     font-family: "Exo", sans-serif;
@@ -143,7 +144,8 @@ header {
     /* transition: all 0.4s    ease-in-out; */
     margin: 0px;
     padding: 0px;
-    border: 0px;
+    border: 1px;
+    border: slategray;
 }
 
 .headering-row-container {
@@ -802,6 +804,26 @@ ul {
 }
 
 /*--------------- contact us---------------------*/
+input[type=text],input[type=email], select, textarea {
+  width: 100%;
+  padding: 12px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  resize: vertical;
+  background-color: rgb(252, 243, 225);
+ 
+  
+} 
+form {
+ width: 70%;
+ margin: auto;
+ 
+}
+
+.form-control{
+ background-color: rgb(252, 243, 225);   
+}
+
 .btn {
   float: center;
   width: 40%;
