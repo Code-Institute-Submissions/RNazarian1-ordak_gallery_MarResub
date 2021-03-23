@@ -800,3 +800,51 @@ ul {
     color: rgb(122, 120, 120);
     margin-bottom: 8px;
 }
+
+/*--------------- contact us---------------------*/
+.btn {
+  float: center;
+  width: 40%;
+  margin-top: 6px;
+  margin-bottom: 6px;
+  background-color: #f36412; 
+  }
+
+button {
+  float: center;
+  width: 150px;
+  margin-top: 16px;
+  margin-bottom: 16px;
+  background-color: rgb(243, 180, 6);
+  border: none;
+  border-collapse: separate; 
+  border-radius: 125px;
+  perspective: 1px;
+  }
+  .btn-secondary {
+    width: 40%;
+    margin-top: 6px;
+    margin-bottom: 6px;
+    background-color: #f36412;
+    display: inline-block;
+    font-weight: 400;
+    color: #212529;
+    text-align: center;
+    vertical-align: middle;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+    background-color: rgb(248, 53, 79);
+    border: 1px solid transparent;
+    padding: .375rem .75rem;
+    font-size: 1rem;
+    line-height: 1.5;
+    border-radius: .25rem;
+    transition: color .15s ease-in-out,background-color .15s ease-in-out,border-color .15s ease-in-out,box-shadow .15s ease-in-out;
+  }
+
+  .center-form button[type="submit"] {
+    background-color: rgb(255, 0, 0);
+    color: #2D2D2D;
+}
