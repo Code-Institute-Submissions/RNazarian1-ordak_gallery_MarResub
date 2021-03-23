@@ -11,47 +11,47 @@
 }
 
 .bg-color-8e8474 {
-    background-color: #8e8474;
+    background-color: #5fa55a;
 }
 
 .bg-color-b58963 {
-    background-color: #b58963
+    background-color: #01b4bc;
 }
 
 .bg-color-c9bc0f {
-    background-color: #c9bc0f
+    background-color: #f6d51f;
 }
 
 .bg-color-a5b288 {
-    background-color: #a5b288
+    background-color: #fa8925;
 }
 
 .bg-color-629286 {
-    background-color: #629286
+    background-color: #fa5457;
 }
 
 .bg-color-5F472F {
-    background-color: #5F472F
+    background-color: rgb(255, 0, 0);
 }
 
 .bg-color-d4ceaf {
-    background-color: #d4ceaf
+    background-color: #d4ceaf;
 }
 
 .bg-color-f00294 {
-    background-color: #f00249
+    background-color: #f00249;
 }
 
 .bg-color-ad6c0a {
-    background-color: #ad6c0a
+    background-color: #ad6c0a;
 }
 
 .bg-color-d59efa77 {
-    background-color: #d59efa77
+    background-color: #d59efa77;
 }
 
 .bg-color-1900ff77 {
-    background-color: #1900ff77
+    background-color: #1900ff77;
 }
 
 .bg-gal-image {
@@ -254,6 +254,7 @@ header {
 
 span:hover {
     text-decoration: none;
+    background-color: rgb(241, 241, 237,0.25);
 }
 
 
@@ -282,7 +283,9 @@ span:hover {
     padding-top: 0%;
     justify-content: center;
     text-decoration: none;
-
+    padding-right: 5px;
+    padding-left: 5px;
+    border-radius: 5%;
 }
 
 .sect-span-floralwhite {
@@ -302,7 +305,16 @@ span:hover {
 
 }
 
+
 /*--------------- footer ---------------------*/
+
+footer {
+        background-color: #504b4b;
+        color: #fafafa;
+        min-height: 120px;
+        margin: 0;
+}
+
 #foot {
     margin: 0%;
     padding-bottom: 0%;
@@ -347,8 +359,103 @@ span:hover {
     vertical-align: middle;
     width: 100%;
     padding-bottom: 0%;
+    
 
 }
+
+.uppercase  {
+            text-transform: uppercase;
+            }
+
+.general-sub    {
+                font-family: "Exo", sans-serif;
+                font-weight: 250;
+                color: floralwhite;
+                text-align: center;
+                
+                
+                }
+
+#footer-details {
+                padding: 20px;
+
+                }
+
+#soc li {
+        font-size: 14px;
+        padding: 0;
+        
+                
+        }
+
+#soc    {
+        margin: 0;
+                
+        }
+
+.list-inline-item:not(:last-child)  {
+                                    margin: 0;
+                                    }
+ 
+.social-links   {
+                padding-bottom: 5px;
+                
+                }
+
+.social-links  li a i   {
+                        width: 32px;
+                        height: 32px;
+                        padding: 12px 0;
+                        border-radius: 25%;
+                        font-size: 13px;
+                        line-height: 7px;
+                        text-align: center;
+                        color: #fafafa;
+                        transition: all 0.35s ease-in-out;
+                        -moz-transition: all 0.35s ease-in-out;
+                        -webkit-transition: all 0.35s ease-in-out;
+                        -o-transition: all 0.35s ease-in-out;
+                        
+                        }
+
+.social-links  li a i:hover {
+                            background: #e84610;
+                            }
+
+.fb a i{
+background-color: rgb(12, 115, 250);
+}
+
+.tw a i{
+background-color: rgb(1, 217, 255);
+}
+
+.ln a i{
+background-color: rgb(8, 60, 129);;
+}
+
+.pi a i{
+background-color: rgb(248, 53, 79);
+}
+
+.in a i{
+/* background-color: rgb(252, 116, 5); */
+/* background: linear-gradient(45deg, blue, red); */
+background: -moz-linear-gradient(45deg, #f09433 0%, #e6683c 25%, #dc2743 50%, #cc2366 75%, #bc1888 100%); 
+background: -webkit-linear-gradient(45deg, #f09433 0%,#e6683c 25%,#dc2743 50%,#cc2366 75%,#bc1888 100%); 
+background: linear-gradient(45deg, #f09433 0%,#e6683c 25%,#dc2743 50%,#cc2366 75%,#bc1888 100%); 
+}
+
+.yt a i{
+background-color: rgba(252, 7, 7);
+}
+
+ul {
+  text-align: center;
+  list-style: inside;
+}
+
+
 
 /*--------------- Art Work Section---------------------*/
 .image1 {
