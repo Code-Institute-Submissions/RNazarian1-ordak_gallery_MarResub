@@ -257,7 +257,11 @@ header {
     text-decoration: none;
 
 }
-
+.hvr-new::before{
+    background: rgba(0, 0, 0, 0.2);
+    width: 100%;
+    text-decoration: none;    
+}
 span:hover {
     text-decoration: none;
     background-color: rgb(241, 241, 237,0.25);
