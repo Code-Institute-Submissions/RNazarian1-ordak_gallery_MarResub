@@ -59,18 +59,19 @@
 }
 
 .bg-gal-image {
-    background-image: url(../images/bg/1611236135095.png);
+    background-image: url(../images/bg/gallery_rooms_bg_home_17.jpg);
     background-position: center;
     background-repeat: no-repeat;
-    position: absolute;
-    padding: 300px;
-    margin: 100px;
-    width: 100%;
-    height: auto;
+    _background-size:auto;
+    position: relative;
+    padding: 0px;
+    margin: 0px;
+    max-width: 100%;
+    max-height: auto;
 }
 
 .bg-insp-image {
-    background-image: url(../images/bg/imageedit_4_2754315749.png);
+    background-image: url(../images/bg/inspiration_background_7.jpg);
     background-position: center;
     background-repeat: no-repeat;
     position: absolute;
