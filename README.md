@@ -1,12 +1,14 @@
 #  Ordak Gallery
 ![logo](https://github.com/RNazarian1/ordak_gallery.git/assets/logo/Ordak_Gallery_Logo_R02.jpg) "Ordak Gallery Logo"
 
-##### This milestone project is prepared for the User Code Institute/Centric Frontend Development module
+##### Milestone project 1 (is prepared for the User Code Institute/Centric Frontend Development module)
+
+Direct link to the project : [here.] (https://github.com/RNazarian1/ordak_gallery.git)
 
 ### Project Goal
- Think of an online gallery (focusing on painting) where is safe to browse, it is friendly and professional response to the needs of  art lovers, learners and artists  who are looking for experiencing a better way communication with each other through the concepts and inspirations.
+ Think of an online gallery (focusing on painting) where is safe to browse and being inspired. The goal is not usual approach. Here the aim is ro establish communicating with the visitors and get their feedback and opinion on art pieces. It aims to earn the honest feedback from visitors without knowing the artist and the price. By knowing the user it would be possible to instate a communication and fullfill their art desire. The price is not the first aim but creating an environment for visitors to express their opinion and need via email.
 
-### Customer Goals
+### Customer Approach
 The Gallry must be very friendly and easy to navigate. The visitors should feel a motivative and live environment without getting too tired too soon. The visitors will get to know the art works, artists and concepts behind artworks. They will learn from the artists original comments and inspired by the artists themselves. Artist also will find an environment where they can express themselves notonly by their art work but alno their own words and educational video clips or comments.
 
 - there should be easy and comfortable ways of contacting and communicating with Ordak Gellery management 
