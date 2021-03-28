@@ -1,22 +1,35 @@
 #  Ordak Gallery
 ![logo](https://github.com/RNazarian1/ordak_gallery.git/assets/logo/Ordak_Gallery_Logo_R02.jpg) "Ordak Gallery Logo"
 
-##### Milestone project 1 (is prepared for the User Code Institute/Centric Frontend Development module)
+##### Milestone project 1 (Prepared for the User Code Institute/Centric Frontend Development module)
 
 Direct link to the project : [here.] (https://github.com/RNazarian1/ordak_gallery.git)
 
 ### Project Goal
- Think of an online gallery (focusing on painting) where is safe to browse and being inspired. The goal is not usual approach. Here the aim is ro establish communicating with the visitors and get their feedback and opinion on art pieces. It aims to earn the honest feedback from visitors without knowing the artist and the price. By knowing the user it would be possible to instate a communication and fullfill their art desire. The price is not the first aim but creating an environment for visitors to express their opinion and need via email.
+ No artist name no price tag. Think of an online gallery (focusing on painting) where is safe to browse and being inspired. The goal is not usual. Here the aim is ro establish a communication with the visitors and get their feedback and opinion on art pieces. It aims to earn the honest feedback from visitors without knowing the artist and the prices. By knowing the user's feeling it would be possible to instate a better communication in order to fullfill their art desire. The price is not the first aim but creating an environment for visitors to express their opinion and need via email.
 
 ### Customer Approach
-The Gallry must be very friendly and easy to navigate. The visitors should feel a motivative and live environment without getting too tired too soon. The visitors will get to know the art works, artists and concepts behind artworks. They will learn from the artists original comments and inspired by the artists themselves. Artist also will find an environment where they can express themselves notonly by their art work but alno their own words and educational video clips or comments.
+The Gallry must be very friendly and easy to navigate. The visitors should feel a motivative and live environment without getting too tired too soon. The visitors will get to know the art works, artists and concepts behind artworks. They will learn from the artists original comments and inspired by the artists themselves. Artist also will find an environment where they can express themselves not only by their art work but also their own words and educational links or comments.
 
 - there should be easy and comfortable ways of contacting and communicating with Ordak Gellery management 
-- Ordering art pieces shouild be easy and without worrying about online scam
-- Most important thing is that the visitors should not be pushed for buying the art pieces and visitors should not be targeted by emails and so they should not feel so. The aim is to create a better life style for all and art can help to achieve it.
+- It is important that the visitors should not be pushed for buying the art pieces and visitors should not be targeted by marketting emails.
 
 
-## Features
+## Table of Contents
+> - [Overview](#overview)
+> - [Description](#description)
+> - [Ux](#ux)
+> - [User Stories](#user-stories)
+> - [Features](#features)
+> - [Technologies Used](#technologies-used)
+> - [Testing](#testing)
+> - [Project bugs and solutions](#Project-bugs-and-solutions)
+> - [Deployment](#deployment)
+> - [Credits](#credits)
+> - [Acknowledgments](#Acknowledgements)
+
+
+## Website Features
 
 - Home
 - Gallery Albums
