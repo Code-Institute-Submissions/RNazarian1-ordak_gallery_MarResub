@@ -167,6 +167,7 @@ header {
 
 
 
+
 .menucontainer {
     font-size: 0%;
     padding: 0;
@@ -490,6 +491,7 @@ background-color: rgb(39, 39, 32);
     margin: 1px;
     width: 200px;
     height: auto;
+    
 
 
 }
@@ -503,6 +505,7 @@ background-color: rgb(39, 39, 32);
     margin: 1px;
     width: 295px;
     height: auto;
+    
 
 }
 
@@ -515,6 +518,7 @@ background-color: rgb(39, 39, 32);
     margin: 1px;
     width: 295px;
     height: auto;
+    
 
 }
 
@@ -527,7 +531,7 @@ background-color: rgb(39, 39, 32);
     margin: 1px;
     width: 295px;
     height: auto;
-
+    
 }
 
 .image5 {
@@ -539,6 +543,7 @@ background-color: rgb(39, 39, 32);
     margin: 1px;
     width: 295px;
     height: auto;
+   
 
 }
 
@@ -551,6 +556,7 @@ background-color: rgb(39, 39, 32);
     margin: 1px;
     width: 295px;
     height: auto;
+    
 
 }
 
@@ -563,6 +569,7 @@ background-color: rgb(39, 39, 32);
     margin: 1px;
     width: 295px;
     height: auto;
+    
 }
 
 .artitem {
@@ -588,8 +595,10 @@ background-color: rgb(39, 39, 32);
     padding-bottom: 0%;
     border: 0px;
     border-color: maroon;
-    
+      
 }
+
+
 
 .gallery-span {
 
@@ -619,6 +628,10 @@ background-color: rgb(39, 39, 32);
     top:15px;
     left:0px;
 
+}
+
+#gal li{
+    margin-top: 10px;
 }
 
 /*--------------- Inspirations Section---------------------*/
@@ -907,7 +920,7 @@ button {
   border-radius: 125px;
   perspective: 1px;
   }
-  .btn-secondary {
+.btn-secondary {
     width: 100px;
     margin-top: 6px;
     margin-bottom: 6px;
