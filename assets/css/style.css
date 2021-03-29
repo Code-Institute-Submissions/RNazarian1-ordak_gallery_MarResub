@@ -898,7 +898,8 @@ form {
 }
 
 .form-control{
- background-color: rgb(252, 243, 225);   
+ background-color: rgb(252, 243, 225);
+ margin: 10px;   
 }
 
 .btn {
