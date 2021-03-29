@@ -3,7 +3,7 @@
 
 ##### Milestone project 1 (Prepared for the User Code Institute/Centric Frontend Development module)
 
-Direct link to the project : [here.] (https://github.com/RNazarian1/ordak_gallery.git)
+Direct link to the project is [here.](https://github.com/RNazarian1/ordak_gallery.git)
 
 ### Project Goal
  No artist name no price tag. Think of an online gallery (focusing on painting) where is safe to browse and being inspired. The goal is not usual. Here the aim is ro establish a communication with the visitors and get their feedback and opinion on art pieces. It aims to earn the honest feedback from visitors without knowing the artist and the prices. By knowing the user's feeling it would be possible to instate a better communication in order to fullfill their art desire. The price is not the first aim but creating an environment for visitors to express their opinion and need via email.
@@ -15,7 +15,8 @@ Direct link to the project : [here.] (https://github.com/RNazarian1/ordak_galler
 ## Readme table of Contents
 > - [Website Overview](#website-overview)
 > - [Website Description and Demonstration](#website-description-and-demonstration)
-> - [Strategy](#strategy)
+> - [Business Strategy](#business-strategy)
+> -  [Business Goal](#business-goal)
 > - [Ux](#ux)
 > - [User Stories](#user-stories)
 > - [Features](#features)
@@ -28,7 +29,7 @@ Direct link to the project : [here.] (https://github.com/RNazarian1/ordak_galler
 
 
 ### Website Overview
-This Gallrydoes not provide any price tag or artist name and users need to contact the galley if they are motivated by the pice(s). All other art gallery websites  try to sell the art by highlighting  artist fame and the history of the piece so users are considered to be collectioners or investors. The purpose here is to create a link with visitors and help them in choosing the right piece of art without destracted by commercial side.The aim is to educate visitors about art and help them to enjoy artworks. There are pages with links to external material for reading, visiting or even apply for a degree in art.
+Ordak Gallry does not provide any price tag or artist name and users need to contact the galley if they are motivated by the pice(s). All other art gallery websites  try to sell the art by highlighting  artist fame and the history of the piece so users are considered to be collectioners or investors. The purpose here is to create a link with visitors and help them in choosing the right piece of art without destracted by commercial side.The aim is to educate visitors about art and help them to enjoy artworks. There are pages with links to external material for reading, visiting or even apply for a degree in art.
 At the end those hwo has sent email will be reached for further advise on buing/renting or getting familiar with artpieces.
 
 
@@ -40,12 +41,17 @@ Website benefits from different page entries each has useful material to attract
 
 
 
-## Strategy
+### Business Strategy
 
-Usual online galleries provide too many options with a lots of details which is mostly useeful for collectors ,art dealers and investors. Usually displaying the price tag and the name of the artist makes decision very difficult for the visitor. The usual methods creates a distraction for visitors and usually makes the visitor left and right brain lobes fight with eachother therfore most of the time people afraid of going to a gallery for enjoyment and self indulge.
+Usual online galleries provide too many options with a lots of details which is mostly useeful for collectors ,art dealers and investors. Usually displaying the price tag and the name of the artist makes decision very difficult for the visitor. The usual methods creates a distraction for visitors and usually makes the visitor left and right brain lobes fight with eachother therfore most of the time people afraid of going to a gallery for enjoyment and self indulge. Users are always welcome to start a converstion regarding their interest and if they are interested they can evaluate the economical side of it. In case they are not comfortable with the art price an alternative cheeper solution will be provided to them by cunsulting with Ordak Gallery.
 
-![Image]()
+![Image](https://github.com/RNazarian1/ordak_gallery/blob/master/assets/images/readme/brain_structure_marked_resized.jpg)
 
+### Business Goal
+
+- the first goal is 
+
+## UX/
 
 
 
