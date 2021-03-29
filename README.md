@@ -14,7 +14,8 @@ Direct link to the project : [here.] (https://github.com/RNazarian1/ordak_galler
 
 ## Readme table of Contents
 > - [Website Overview](#website-overview)
-> - [Description](#description)
+> - [Website Description and Demonstration](#website-description-and-demonstration)
+> - [Strategy](#strategy)
 > - [Ux](#ux)
 > - [User Stories](#user-stories)
 > - [Features](#features)
@@ -31,9 +32,26 @@ This Gallrydoes not provide any price tag or artist name and users need to conta
 At the end those hwo has sent email will be reached for further advise on buing/renting or getting familiar with artpieces.
 
 
-### Description
+### Website Description and Demonstration
 
-Web site requires to be happy and there should not be any complexity without any  convoluted  structure. The visitor target is a vide range specially those who may not be quite familiar with amazone type of websites. It is very friendly and easy to navigate. The visitors should feel a motivative and live environment without getting too tired too soon. The visitors will get to know the art works, artists and concepts behind artworks. They will learn from the artists original comments and inspired by the artists themselves. Artist also will find an environment where they can express themselves not only by their art work but also their own words and educational links or comments.
+The website is trying to put an experimental approach into test on art (painting) business by focusing more on the art by itself rather than the other usual galleries where the price and fame of the artist is the heart of the business. 
+Website benefits from different page entries each has useful material to attract and entertain the visitors.
+
+
+
+
+## Strategy
+
+Usual online galleries provide too many options with a lots of details which is mostly useeful for collectors ,art dealers and investors. Usually displaying the price tag and the name of the artist makes decision very difficult for the visitor. The usual methods creates a distraction for visitors and usually makes the visitor left and right brain lobes fight with eachother therfore most of the time people afraid of going to a gallery for enjoyment and self indulge.
+
+![Image]()
+
+
+
+
+----------------------------------------------------------
+The goal is to promote art by serving the visitors with motivations and finally bring art lovers and artists together with through selected artworks.
+
 
 ## Website Features
 
@@ -82,3 +100,11 @@ Web site requires to be happy and there should not be any complexity without any
 - Displayed pictures are permitted to use
 - The home page and general idea is inspired from Mini Project with Bootstrap 4 module
 - The contact form is more or less the same as the initial code of the Mini Project with Bootstrap 4 module
+
+
+
+
+
+
+
+Web site requires to be happy and there should not be any complexity and without any convoluted structure. The target visitor is a vide range specially those who may not be quite familiar with complex type of websites. It is very friendly and easy to navigate. The visitors should feel motivated and benefit from a live environment without getting lost to what they are looking for. The visitors will get to know the art works, artists and concepts behind artworks if they feel good about the art after contacting the gallery and they will learn from the artists original comments and will and inspired by the artists themselves. Artist also will find an environment where they can express themselves not only by their art work but also their own words if visitor shows interest. There is he and educational links or comments.
