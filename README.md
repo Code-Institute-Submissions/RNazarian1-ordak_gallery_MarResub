@@ -1,5 +1,5 @@
 #  Ordak Gallery
-![logo](https://github.com/RNazarian1/ordak_gallery/blob/master/assets/images/logo/Ordak_Gallery_Logo_R02.jpg) "Ordak Gallery Logo"
+![logo](https://github.com/RNazarian1/ordak_gallery/blob/master/assets/images/logo/ordak_gallery_logo.jpg) "Ordak Gallery Logo"
 
 ##### Milestone project 1 (Prepared for the User Code Institute/Centric Frontend Development module)
 
