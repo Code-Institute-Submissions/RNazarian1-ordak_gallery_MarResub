@@ -56,6 +56,29 @@ Usual online galleries provide too many options with a lots of details which is 
 ## UX/
 
 
+##Testing
+public link to ordak gallery is the following [link:](https://github.com/RNazarian1/ordak_gallery.git) [https://github.com/RNazarian1/ordak_gallery.git]
+
+[https://rnazarian1.github.io/ordak_gallery/] the test include a range of laptop, tablet and mobile and responsiveness:
+
+The websites for testing include :
+
+For collective device responsiveness test I used this link: (http://ami.responsivedesign.is/)
+
+This link was also used for more detailed responsive test: [https://responsivedesignchecker.com/]
+
+
+Different pages should react similarly. 
+
+Test indcluds website functions and links to external sites. 
+
+There is no broken link and 
+
+
+
+
+
+
 
 ----------------------------------------------------------
 The goal is to promote art by serving the visitors with motivations and finally bring art lovers and artists together with through selected artworks.
