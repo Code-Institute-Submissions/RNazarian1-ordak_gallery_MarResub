@@ -332,12 +332,12 @@ The validation shows a series of error which was fixed:
 
 >- CSS errors: style.css file
 
-![CSS:]()
+![CSS:](https://github.com/RNazarian1/ordak_gallery/blob/f85afa3d666a3d4870a42051602b18cf835eb241/assets/images/readme/CSS_validation.JPG)
 
 
 >- HTML errors : interesting.html and useful.html files
 
-![HTML:]()
+![HTML:](https://github.com/RNazarian1/ordak_gallery/blob/f85afa3d666a3d4870a42051602b18cf835eb241/assets/images/readme/HTML_validation.JPG)
 
 all above were fixed.
 
