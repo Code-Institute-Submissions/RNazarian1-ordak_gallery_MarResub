@@ -1,12 +1,12 @@
 #  Ordak Gallery
-![logo](https://github.com/RNazarian1/ordak_gallery/blob/master/assets/images/logo/ordak_gallery_logo.jpg) "Ordak Gallery Logo"
+![Ordak Gallerylogo](https://github.com/RNazarian1/ordak_gallery/blob/master/assets/images/logo/ordak_gallery_logo.jpg)
 
 ##### Milestone project 1 (Prepared for the User Code Institute/Centric Frontend Development module)
 
 Direct link to the project is [here.](https://github.com/RNazarian1/ordak_gallery.git)
 
 ### Project Goal
- No artist name no price tag. Think of an online gallery (focusing on painting) where is safe to browse and being inspired. The goal is not usual. Here the aim is ro establish a communication with the visitors and get their feedback and opinion on art pieces. It aims to earn the honest feedback from visitors without knowing the artist and the prices. By knowing the user's feeling it would be possible to instate a better communication in order to fullfill their art desire. The price is not the first aim but creating an environment for visitors to express their opinion and need via email.
+No artist name no price tag. Think of an online gallery (focusing on painting) where is safe to browse and being inspired. The goal is not usual. Here the aim is ro establish a communication with the visitors and get their feedback and opinion on art pieces. It aims to earn the honest feedback from visitors without knowing the artist and the prices. By knowing the user's feeling it would be possible to instate a better communication in order to fullfill their art desire. The price is not the first aim but creating an environment for visitors to express their opinion and need via email.
 
 - there should be easy and comfortable ways of contacting and communicating with Ordak Gellery management 
 - It is important that the visitors should not be pushed for buying the art pieces and visitors should not be targeted by marketting emails.
@@ -48,7 +48,7 @@ Usual online galleries provide too many options with a lots of details which is 
 ![Image](https://github.com/RNazarian1/ordak_gallery/blob/master/assets/images/readme/brain_structure_marked_resized.jpg)
 
 ### Business Goal
-- The major goal is to benefit from srt msrkrt business opportunities in a cheatic market which is difficult to penetrate and stay sustainable.
+- The major goal is to benefit from art markrt business opportunities in a cheatic market which is difficult to penetrate and stay sustainable.
 - There are many talents who are living under the shadow of famous figures or does not have a propper platform to promote their works. It is tried to promote those talents through an innovative approach.
 - The website is focused on painting therefore should be soon a base for many artists
 - Art market needs different approach to reach paintings and their creators.
@@ -56,16 +56,32 @@ Usual online galleries provide too many options with a lots of details which is 
 ## UX/
 
 
-##Testing
-public link to ordak gallery is the following [link:](https://github.com/RNazarian1/ordak_gallery.git) [https://github.com/RNazarian1/ordak_gallery.git]
+## Testing
+Public link to ordak gallery is [here:](https://github.com/RNazarian1/ordak_gallery.git) [https://github.com/RNazarian1/ordak_gallery.git] and public website display could be reached by following [link:](https://rnazarian1.github.io/ordak_gallery/) (https://rnazarian1.github.io/ordak_gallery/)the test include a range of laptop, tablet and mobile and responsiveness:
 
-[https://rnazarian1.github.io/ordak_gallery/] the test include a range of laptop, tablet and mobile and responsiveness:
+Two different online free applications were used for testing The websites for its responsiveness:
 
-The websites for testing include :
+* AMI website or collective device responsiveness test I used this link: (http://ami.responsivedesign.is/)
 
-For collective device responsiveness test I used this link: (http://ami.responsivedesign.is/)
+this link has test the Ordak Gallery website based on screen sizes (called viewport) of:
 
-This link was also used for more detailed responsive test: [https://responsivedesignchecker.com/]
+> - Desktop
+1600x992px scaled down to scale(0.3181)
+>- Laptop
+1280x802px scaled down to scale(0.277)
+>- Tablet
+768x1024px scaled down to scale(0.219)
+>- Mobile
+320x480px scaled down to scale(0.219)
+
+Here is the result:
+
+![AMI application responsive test result](https://github.com/RNazarian1/ordak_gallery/blob/6ac77228ee111bcf6095546e0fd7a0b97f7386ac/assets/images/readme/ami_response_test.png)
+
+As per the image the Ordak Galery website appeas good on different devices.
+
+
+* RESPONSIVE DESIGN website was also used for more selective responsive test: [https://responsivedesignchecker.com/]
 
 
 Different pages should react similarly. 
