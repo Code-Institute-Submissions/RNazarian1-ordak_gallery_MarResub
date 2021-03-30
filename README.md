@@ -60,8 +60,10 @@ Usual online galleries provide too many options with a lots of details which is 
 Public link to ordak gallery is [here:](https://github.com/RNazarian1/ordak_gallery.git) [https://github.com/RNazarian1/ordak_gallery.git] and public website display could be reached by following [link:](https://rnazarian1.github.io/ordak_gallery/) (https://rnazarian1.github.io/ordak_gallery/)the test include a range of laptop, tablet and mobile and responsiveness:
 
 Two different online free applications were used for testing The websites for its responsiveness:
-
-* AMI website or collective device responsiveness test I used this link: (http://ami.responsivedesign.is/)
+<br>
+<br>
+#### AMI
+AMI website or collective device responsiveness test I used this link: (http://ami.responsivedesign.is/)
 
 this link has test the Ordak Gallery website based on screen sizes (called viewport) of:
 
@@ -78,15 +80,33 @@ Here is the result:
 
 ![AMI application responsive test result](https://github.com/RNazarian1/ordak_gallery/blob/master/assets/images/readme/ami_response_test.jpg)
 
-As per the image the Ordak Galery website appeas good on different devices.
+>- As per the image the Ordak Galery website appeas good on different devices.
+>- popup transform image feature for gallery and inspiration page are active and functioning well.  
+
+<br>
+
+#### RESPONSIVE DESIGN
+
+RESPONSIVE DESIGN website was also used for more selective responsive test: [https://responsivedesignchecker.com/]
+
+Here is the result:
+
+>- 24inch_monitor_website_check
+
+<br>
+
+>- Home Page
+
+<br>
+<br>
 
 
-* RESPONSIVE DESIGN website was also used for more selective responsive test: [https://responsivedesignchecker.com/]
+![RESPONSIVE DESIGN application responsive test result](https://github.com/RNazarian1/ordak_gallery/blob/master/assets/images/readme/ami_response_test.jpg)
 
 
-Different pages should react similarly. 
 
-Test indcluds website functions and links to external sites. 
+>- Menue buttons in different pages should react similarly. 
+>- Test indcluds website functions and links to external sites such as facebook, twitter etc.
 
 There is no broken link and 
 
