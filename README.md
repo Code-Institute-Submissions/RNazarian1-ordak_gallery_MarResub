@@ -170,6 +170,98 @@ Here is the result:
 >- Test indcluds website functions and links to external sites such as facebook, twitter etc.
 >- popup transform images of artwork and inspiration pages are working
 
+<br>
+<br>
+
+>- amazon_kindle_fire_hd_768X1024
+
+<br>
+
+>- Home Page
+
+<br>
+<br>
+
+
+![RESPONSIVE DESIGN Home page amazon_kindle_fire_hd_768X1024 test result:](https://github.com/RNazarian1/ordak_gallery/blob/fc7c1e7a2c6a61af5dca46bb479b219d0eea27c1/assets/images/readme/amazon_kindle_fire_hd_768X1024_resized_half.jpg)
+
+
+
+>- Menue buttons in different pages should react similarly. 
+>- Test indcluds website functions and links to external sites such as facebook, twitter etc.
+>- popup transform images of artwork and inspiration pages are working
+
+<br>
+
+
+<br>
+<br>
+
+>- amazon_kindle_fire_hd_768X1024
+
+<br>
+
+>- Home Page
+
+<br>
+<br>
+
+
+![RESPONSIVE DESIGN Home page amazon_kindle_fire_hd_768X1024 test result:](https://github.com/RNazarian1/ordak_gallery/blob/fc7c1e7a2c6a61af5dca46bb479b219d0eea27c1/assets/images/readme/amazon_kindle_fire_hd_768X1024_resized_half.jpg)
+
+
+
+>- Menue buttons in different pages should react similarly. 
+>- Test indcluds website functions and links to external sites such as facebook, twitter etc.
+>- popup transform images of artwork and inspiration pages are working
+
+<br>
+
+<br>
+<br>
+
+>- samsun_galaxy_s5_s6_s7_360X640
+
+<br>
+
+>- Home Page
+
+<br>
+<br>
+
+
+![RESPONSIVE DESIGN Home page samsun_galaxy_s5_s6_s7_360X640 test result:]()
+
+
+
+>- Menue buttons in different pages should react similarly. 
+>- Test indcluds website functions and links to external sites such as facebook, twitter etc.
+>- popup transform images of artwork and inspiration pages are working
+
+<br>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ----------------------------------------------------------
 The goal is to promote art by serving the visitors with motivations and finally bring art lovers and artists together with through selected artworks.
