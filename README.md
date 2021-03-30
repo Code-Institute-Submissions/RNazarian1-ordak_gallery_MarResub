@@ -101,19 +101,74 @@ Here is the result:
 <br>
 
 
-![RESPONSIVE DESIGN Home page 24 inches monitor test result:](https://github.com/RNazarian1/ordak_gallery/blob/master/assets/images/readme/ami_response_test.jpg)
+![RESPONSIVE DESIGN Home page 24 inches monitor test result:](https://github.com/RNazarian1/ordak_gallery/blob/master/assets/images/readme/24inch_monitor_website_check_home_resized_half.jpg)
 
 
 
 >- Menue buttons in different pages should react similarly. 
 >- Test indcluds website functions and links to external sites such as facebook, twitter etc.
+>- popup transform images of artwork and inspiration pages are working
 
-There is no broken link and 
-
-
-
+<br>
 
 
+
+<br>
+
+>- Artwork Page
+
+<br>
+<br>
+
+
+![RESPONSIVE DESIGN Artwork page 24 inches monitor test result:](https://github.com/RNazarian1/ordak_gallery/blob/master/assets/images/readme/24inch_monitor_website_check_artworks_page_resized_half.jpg)
+
+
+
+>- Menue buttons in different pages should react similarly. 
+>- Test indcluds website functions and links to external sites such as facebook, twitter etc.
+>- popup transform images of artwork and inspiration pages are working
+
+<br>
+
+
+
+<br>
+
+>- Inspirations Page
+
+<br>
+<br>
+
+
+![RESPONSIVE DESIGN Inspiration page 24 inches monitor test result:](https://github.com/RNazarian1/ordak_gallery/blob/e811f4f33beb006b897afbe19162f33a5e83d4c5/assets/images/readme/24inch_monitor_website_check_inspirations_page_resized_half.jpg)
+
+
+
+>- Menue buttons in different pages should react similarly. 
+>- Test indcluds website functions and links to external sites such as facebook, twitter etc.
+>- popup transform images of artwork and inspiration pages are working
+
+
+<br>
+
+
+
+<br>
+
+>- Contact Page
+
+<br>
+<br>
+
+
+![RESPONSIVE DESIGN Contact page 24 inches monitor test result:](https://github.com/RNazarian1/ordak_gallery/blob/master/assets/images/readme/24inch_monitor_website_check_contact_page_resized.jpg)
+
+
+
+>- Menue buttons in different pages should react similarly. 
+>- Test indcluds website functions and links to external sites such as facebook, twitter etc.
+>- popup transform images of artwork and inspiration pages are working
 
 
 ----------------------------------------------------------
