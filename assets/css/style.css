@@ -1,6 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Exo:wght@100;200;300;400;500&family=Roboto:wght@100;300;400;500;700&display=swap');
-/*--------------- background Color Classes ---------------------*/
-/*---Reference   http://www.varian.net/dreamview/dreamcolor/earth.html    */
+
 
 .bg-color-white {
     background-color: #ffffff;
@@ -66,7 +65,7 @@
     padding: 0px;
     margin: 0px;
     max-width: 100%;
-    max-height: auto;
+
 }
 
 .bg-insp-image {
@@ -105,7 +104,7 @@
 
 .header_h3 {
     font-family: "Roboto", sans-serif;
-    font-weight: 250;
+    font-weight: 300;
     font-size: 25px;
     margin-top: 40px;
     margin-bottom: 49px;
@@ -118,7 +117,7 @@
 
 .header_h3_a {
     font-family: "Roboto", sans-serif;
-    font-weight: 250;
+    font-weight: 300;
     font-size: 25px;
     margin-top: 85px;
     margin-bottom: 90px;
@@ -143,10 +142,8 @@ header {
     background: url("../images/logo/ordak_gallery_logo.jpg");
     background-position: center;
     background-repeat: no-repeat;
-    /* background-size:100%; */
     height: 290px;
     max-width: 100%;
-    /* transition: all 0.4s    ease-in-out; */
     margin: 0px;
     padding: 0px;
     border: 1px;
@@ -185,10 +182,9 @@ header {
 
 #nav li {
     font-size: 14px;
-    /*           padding-left: 0px;*/
+
     padding-right: 0px;
     margin: 0%;
-    /*            padding-top: 1%;*/
     text-align: center;
     vertical-align: central;
 
@@ -208,7 +204,6 @@ header {
 }
 
 .menuitem a {
-    /*width:100%;*/
     text-decoration: none;
     color: floralwhite;
     height: 100px;
@@ -220,7 +215,6 @@ header {
 }
 
 .menuitem span {
-    display: black;
     width: 100%;
     text-align: center;
     text-transform: uppercase;
@@ -252,7 +246,7 @@ header {
 }
 
 
-/*---- hover ---*/
+
 
 .hvr-fade::before {
     background: rgba(0, 0, 0, 0.2);
@@ -285,7 +279,6 @@ span:hover {
 .sect-span {
 
     color: #2e1304;
-    display: black;
     width: 100%;
     text-align: center;
     text-transform: uppercase;
@@ -347,9 +340,7 @@ footer {
 }
 
 .foot-span {
-
     color: floralwhite;
-    display: black;
     width: 100%;
     text-align: center;
     text-transform: uppercase;
@@ -362,7 +353,7 @@ footer {
     padding-top: 0px;
     justify-content: center;
     padding-bottom: 0%;
-    content: 100%;
+
 }
 
 .a-hover:hover {
@@ -382,7 +373,6 @@ footer {
     width: 100%;
     padding-bottom: 0%;
 
-
 }
 
 .uppercase {
@@ -391,10 +381,9 @@ footer {
 
 .general-sub {
     font-family: "Exo", sans-serif;
-    font-weight: 250;
+    font-weight: 300;
     color: floralwhite;
     text-align: center;
-
 
 }
 
@@ -408,7 +397,6 @@ footer {
     padding: 0;
     margin-top: 5px;
     margin-bottom: 5px;
-
 
 }
 
@@ -495,8 +483,6 @@ ul {
     width: 200px;
     height: auto;
 
-
-
 }
 
 .image2 {
@@ -509,7 +495,6 @@ ul {
     width: 295px;
     height: auto;
 
-
 }
 
 .image3 {
@@ -521,7 +506,6 @@ ul {
     margin: 1px;
     width: 295px;
     height: auto;
-
 
 }
 
@@ -547,7 +531,6 @@ ul {
     width: 295px;
     height: auto;
 
-
 }
 
 .image6 {
@@ -559,7 +542,6 @@ ul {
     margin: 1px;
     width: 295px;
     height: auto;
-
 
 }
 
@@ -605,24 +587,18 @@ ul {
     padding: 0%;
     vertical-align: top;
     width: 100%;
-    /* height: 250px; */
     height: auto;
     padding-bottom: 0%;
     border: 0px;
     border-color: maroon;
-
-
 
 }
 
 
 
 .gallery-span {
-
-
     color: floralwhite;
     background-color: rgba(7, 7, 7, 0.5);
-    display: black;
     width: 100%;
     text-align: center;
     text-transform: uppercase;
@@ -702,7 +678,7 @@ ul {
 
 .artitem {
     height: 300px;
-    text-align: middle;
+    text-align: center;
     padding: 0%;
     vertical-align: top;
     padding-bottom: 0%;
@@ -712,7 +688,6 @@ ul {
 
 
 .inspiration-div {
-
     text-align: center;
     background-color: #ffffff;
     padding: 0%;
@@ -751,7 +726,6 @@ ul {
 }
 
 .int-menuitem a {
-    /*width:100%;*/
     text-decoration: none;
     color: floralwhite;
     height: 100px;
@@ -763,7 +737,6 @@ ul {
 }
 
 .int-menuitem span {
-    display: black;
     width: 100%;
     text-align: left;
     text-transform: uppercase;
@@ -793,7 +766,6 @@ ul {
 
 
 .int-div {
-
     text-align: left;
     background-color: #d59efa77;
     padding: 0%;
@@ -805,10 +777,11 @@ ul {
     border-color: maroon;
 }
 
-.int-span li {
+.int-li {
     padding-left: 20px;
     color: rgb(122, 120, 120);
     margin-bottom: 8px;
+
 }
 
 /*--------------- usefull reading  material---------------------*/
@@ -837,7 +810,6 @@ ul {
 }
 
 .read-menuitem a {
-    /*width:100%;*/
     text-decoration: none;
     color: floralwhite;
     height: 100px;
@@ -849,7 +821,6 @@ ul {
 }
 
 .read-menuitem span {
-    display: black;
     width: 100%;
     text-align: left;
     text-transform: uppercase;
@@ -879,7 +850,6 @@ ul {
 
 
 .read-div {
-
     text-align: left;
     background-color: #b0f1ee77;
     padding: 0%;
@@ -924,7 +894,6 @@ form {
 }
 
 .btn {
-    float: center;
     width: 40%;
     margin-top: 6px;
     margin-bottom: 6px;
@@ -932,7 +901,6 @@ form {
 }
 
 button {
-    float: center;
     width: 150px;
     margin-top: 16px;
     margin-bottom: 16px;
@@ -967,7 +935,6 @@ button {
 }
 
 .center-form button[type="submit"] {
-    /* background-color: rgb(255, 0, 0); */
     background: linear-gradient(to right,
             rgb(255, 92, 92) 0%, rgb(255, 198, 92) 20%, rgb(255, 255, 92) 40%, rgb(92, 255, 92) 60%, rgb(92, 92, 255) 100%);
     color: #2D2D2D;

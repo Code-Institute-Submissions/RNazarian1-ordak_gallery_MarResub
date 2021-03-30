@@ -16,13 +16,13 @@ No artist name no price tag. Think of an online gallery (focusing on painting) w
 > - [Website Overview](#website-overview)
 > - [Website Description and Demonstration](#website-description-and-demonstration)
 > - [Business Strategy](#business-strategy)
-> -  [Business Goal](#business-goal)
+> - [Business Goal](#business-goal)
 > - [Ux](#ux)
 > - [User Stories](#user-stories)
 > - [Features](#features)
 > - [Technologies Used](#technologies-used)
 > - [Testing](#testing)
-> - [Project bugs and solutions](#Project-bugs-and-solutions)
+> - [Bug Fixing and Validation](#bug-fixing-and-validation)
 > - [Deployment](#deployment)
 > - [Credits](#credits)
 > - [Acknowledgments](#Acknowledgements)
@@ -318,9 +318,16 @@ As a result the website is fully fuctionmal on different devices.
 
 
 
+## Bug Fixing and Validation 
+
+The following technologies where used for validating the codes.
+
+HTML - [W3C](https://validator.w3.org/) - Markup Validation
+
+CSS - [W3C](https://jigsaw.w3.org/css-validator/) - CSS Validation
 
 
-
+The validation shows no serious warniong or erro directly regaring the codes however there are many errors and warnings regarding background javascript and bootacamp elements , values and attributes which is beyound this practice.
 
 
 
