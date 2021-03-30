@@ -19,7 +19,7 @@ No artist name no price tag. Think of an online gallery (focusing on painting) w
 > - [Business Goal](#business-goal)
 > - [Ux](#ux)
 > - [User Stories](#user-stories)
-> - [Features](#features)
+> - [Website Features](#website-features)
 > - [Technologies Used](#technologies-used)
 > - [Testing](#testing)
 > - [Bug Fixing and Validation](#bug-fixing-and-validation)
@@ -40,7 +40,6 @@ Website benefits from different page entries each has useful material to attract
 
 
 
-
 ### Business Strategy
 
 Usual online galleries provide too many options with a lots of details which is mostly useeful for collectors ,art dealers and investors. Usually displaying the price tag and the name of the artist makes decision very difficult for the visitor. The usual methods creates a distraction for visitors and usually makes the visitor left and right brain lobes fight with eachother therfore most of the time people afraid of going to a gallery for enjoyment and self indulge. Users are always welcome to start a converstion regarding their interest and if they are interested they can evaluate the economical side of it. In case they are not comfortable with the art price an alternative cheeper solution will be provided to them by cunsulting with Ordak Gallery.
@@ -54,6 +53,54 @@ Usual online galleries provide too many options with a lots of details which is 
 - Art market needs different approach to reach paintings and their creators.
 
 ## UX/
+
+## Website Features
+
+The website has following features: 
+
+- Home (First page with liks to all aother pages)
+- Art Works (where visitors will watch the art work images)
+- Inspirations (Here user can get inspired by real life experience of an artist)
+- Interesting Events (where to visit and educational opportunities in art are introduced)
+- Useful Reading (material that increase knowledge and awareness related to art)
+- Contact Us (visitors can send messages/email)
+
+Other features such as social media links and a contact phone number are included under each page.
+
+
+
+### Website File Structure
+
+- image files are loaded under assets folder\images
+- Images folder have subfolders named after each artists.
+- Under each artist folder there is an artwork and inspiration (insp) folder separating gallery and inspirations files.
+- Bootstrap version is 4.3.1
+- font-awesom link is not added inside the <head></head> because it does not exist under Bootstrap version 4.3.1 and it might not be necessary!!!!
+
+### Coding Structure
+
+- hover effect is copies from https://cdnjs.com/libraries?q=hover
+- Galley Rooms is the same as Art Works of the menue. 
+
+### Potential Future Developments and plans
+- Provide a mini biography (preferreably an autobiography) for artists in general
+- Adding a simple paragfraph to each artwork so visitors could stablish connection with them
+- Creating a 2D imaginary gallery plot with rooms  and sallons with hovering and selecting capabilities. Each room  is dedicated to a single artist and some exhibitions could be held there.
+- Possibly a rating system based on number of view , visitor rating, and feedback
+- Adding a filtering system so user can filter the type of art work based on style, demdia , artist etc
+- Sorting system for sorting the displayed pictures
+- More interesting sources for reading and more inspiration places and also places to visit will be added
+- Based on user experience colours may improvement
+
+### Visitors stories
+- A visitor artist pleased by using more vibrant colours at this stage.
+- A site visitor mentioned that the gallery is simple to browse and potentially usefull to learn from
+- Another site visitor menioned about its  nice appearance and also meaningful logo
+
+###  Further fix to be done
+- The menues hover functionality need improvement
+- There was an error for launching videoes and popup pictures on gitpod so those features are removed but need to be resolved
+- the pdf file under Reading tab does not appear in gitpot but the files and the links are still there
 
 
 ## Testing
@@ -112,7 +159,6 @@ Here is the result:
 <br>
 
 
-
 <br>
 
 >- Artwork Page
@@ -132,7 +178,6 @@ Here is the result:
 <br>
 
 
-
 <br>
 
 >- Inspirations Page
@@ -144,15 +189,12 @@ Here is the result:
 ![RESPONSIVE DESIGN Inspiration page 24 inches monitor test result:](https://github.com/RNazarian1/ordak_gallery/blob/e811f4f33beb006b897afbe19162f33a5e83d4c5/assets/images/readme/24inch_monitor_website_check_inspirations_page_resized_half.jpg)
 
 
-
 >- Menue buttons in different pages should react similarly. 
 >- Test indcluds website functions and links to external sites such as facebook, twitter etc.
 >- popup transform images of artwork and inspiration pages are working
 
 
 <br>
-
-
 
 <br>
 
@@ -163,7 +205,6 @@ Here is the result:
 
 
 ![RESPONSIVE DESIGN Contact page 24 inches monitor test result:](https://github.com/RNazarian1/ordak_gallery/blob/master/assets/images/readme/24inch_monitor_website_check_contact_page_resized.jpg)
-
 
 
 >- Menue buttons in different pages should react similarly. 
@@ -184,7 +225,6 @@ Here is the result:
 
 
 ![RESPONSIVE DESIGN Home page amazon_kindle_fire_hd_768X1024 test result:](https://github.com/RNazarian1/ordak_gallery/blob/fc7c1e7a2c6a61af5dca46bb479b219d0eea27c1/assets/images/readme/amazon_kindle_fire_hd_768X1024_resized_half.jpg)
-
 
 
 >- Menue buttons in different pages should react similarly. 
@@ -233,7 +273,6 @@ Here is the result:
 ![RESPONSIVE DESIGN Home page samsun_galaxy_s5_s6_s7_360X640 test result:](https://github.com/RNazarian1/ordak_gallery/blob/1b3d951900b1334ca1179e227c96c627bd72fef4/assets/images/readme/samsun_galaxy_s5_s6_s7_360X640_resized_half.jpg)
 
 
-
 >- Menue buttons in different pages should react similarly. 
 >- Test indcluds website functions and links to external sites such as facebook, twitter etc.
 >- popup transform images of artwork and inspiration pages are working
@@ -258,13 +297,11 @@ Here is the result:
 ![RESPONSIVE DESIGN Home page samsung_galaxy_tab_10_800_1280 test result:](https://github.com/RNazarian1/ordak_gallery/blob/1b3d951900b1334ca1179e227c96c627bd72fef4/assets/images/readme/samsung_galaxy_tab_10_800_1280_resized_half.jpg)
 
 
-
 >- Menue buttons in different pages should react similarly. 
 >- Test indcluds website functions and links to external sites such as facebook, twitter etc.
 >- popup transform images of artwork and inspiration pages are working
 
 <br>
-
 
 
 <br>
@@ -305,7 +342,6 @@ Here is the result:
 
 
 ![RESPONSIVE DESIGN Home page apple_ipad_pro1066X1024 test result:](https://github.com/RNazarian1/ordak_gallery/blob/1b3d951900b1334ca1179e227c96c627bd72fef4/assets/images/readme/apple_ipad_pro1066X1024_resized_half.jpg)
-
 
 
 >- Menue buttons in different pages should react similarly. 
@@ -379,47 +415,7 @@ The default value for email anchore "target" attribute is  equal to "_self" if t
 The goal is to promote art by serving the visitors with motivations and finally bring art lovers and artists together with through selected artworks.
 
 
-## Website Features
-
-- Home
-- Gallery Albums
-- Inspirations
-- Interesting links
-- Reading materials etc.
-- Contact Page
-
-### Coding Structure
-
-- uploaded media files are separated to videos and images both under assets folder
-- Images and videos folder has subfolders named after each artists. The names are first letter of first name and last name. For example a folder belong to Van Gogh would be vg.
-- Under each artist folder there is an artwork and inspiration (insp) folder separating gallery and inspirations files.
-- Bootstrap version is 4.3.1
-- font-awesom link is not added inside the <head></head> because it does not exist under Bootstrap version 4.3.1 and it might not be necessary!!!!
-
-### Coding Structure
-
-- hover effect is copies from https://cdnjs.com/libraries?q=hover
-- Galley Rooms is the same as Art Works of the menue. I choose different name to check the user feedback
-
-### Potential Future Developments and plans
-- Provide a mini biography (preferreably an autobiography) for the artists
-- Adding a simple paragfraph to each artwork so visitors could get connected with the them
-- Creating a 2D imaginary gallery plot with rooms  and sallons with hovering and selecting capabilities. Each room  is dedicated to a single artist and some exhibitions could be held there.
-- Possibly a rating system based on number of view , visitor rating, and feedback
-- Adding a filtering system so user can filter the type of art work based on style, demdia , artist etc
-- Sorting system for sorting the displayed pictures
-- More interesting sources for reading and more inspiration places and also places to visit will be added
-- Based on user experience colours need improvement
-
-### Visitors stories
-- A visitor artist pleased by using more vibrant colours at this stage.
-- A site visitor mentioned that the gallery is simple to browse and potentially usefull to learn from
-- Another site visitor menioned about its  nice appearance and also meaningful logo
-
-###  Further fix to be done
-- The menues hover functionality need improvement
-- There was an error for launching videoes and popup pictures on gitpod so those features are removed but need to be resolved
-- the pdf file under Reading tab does not appear in gitpot but the files and the links are still there
+#
 
 ### Notes
 - Only one artist could send an approval for using her works and the rest of the artist will reply soon.
