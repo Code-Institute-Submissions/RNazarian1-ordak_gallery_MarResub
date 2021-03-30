@@ -48,8 +48,10 @@ Usual online galleries provide too many options with a lots of details which is 
 ![Image](https://github.com/RNazarian1/ordak_gallery/blob/master/assets/images/readme/brain_structure_marked_resized.jpg)
 
 ### Business Goal
-
-- the first goal is 
+- The major goal is to benefit from srt msrkrt business opportunities in a cheatic market which is difficult to penetrate and stay sustainable.
+- There are many talents who are living under the shadow of famous figures or does not have a propper platform to promote their works. It is tried to promote those talents through an innovative approach.
+- The website is focused on painting therefore should be soon a base for many artists
+- Art market needs different approach to reach paintings and their creators.
 
 ## UX/
 
