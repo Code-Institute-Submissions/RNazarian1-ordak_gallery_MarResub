@@ -230,7 +230,7 @@ Here is the result:
 <br>
 
 
-![RESPONSIVE DESIGN Home page samsun_galaxy_s5_s6_s7_360X640 test result:]()
+![RESPONSIVE DESIGN Home page samsun_galaxy_s5_s6_s7_360X640 test result:](https://github.com/RNazarian1/ordak_gallery/blob/1b3d951900b1334ca1179e227c96c627bd72fef4/assets/images/readme/samsun_galaxy_s5_s6_s7_360X640_resized_half.jpg)
 
 
 
@@ -242,11 +242,79 @@ Here is the result:
 
 
 
+<br>
+<br>
+
+>- samsung_galaxy_tab_10_800_1280
+
+<br>
+
+>- Home Page
+
+<br>
+<br>
+
+
+![RESPONSIVE DESIGN Home page samsung_galaxy_tab_10_800_1280 test result:](https://github.com/RNazarian1/ordak_gallery/blob/1b3d951900b1334ca1179e227c96c627bd72fef4/assets/images/readme/samsung_galaxy_tab_10_800_1280_resized_half.jpg)
 
 
 
+>- Menue buttons in different pages should react similarly. 
+>- Test indcluds website functions and links to external sites such as facebook, twitter etc.
+>- popup transform images of artwork and inspiration pages are working
+
+<br>
 
 
+
+<br>
+<br>
+
+>- apple_6s_plus_n_7_plus4114X736
+
+<br>
+
+>- Home Page
+
+<br>
+<br>
+
+
+![RESPONSIVE DESIGN Home page apple_6s_plus_n_7_plus4114X736 test result:](https://github.com/RNazarian1/ordak_gallery/blob/1b3d951900b1334ca1179e227c96c627bd72fef4/assets/images/readme/apple_6s_plus_n_7_plus4114X736_resized_half.jpg)
+
+
+
+>- Menue buttons in different pages should react similarly. 
+>- Test indcluds website functions and links to external sites such as facebook, twitter etc.
+>- popup transform images of artwork and inspiration pages are working
+
+<br>
+
+
+<br>
+<br>
+
+>- apple_ipad_pro1066X1024
+
+<br>
+
+>- Home Page
+
+<br>
+<br>
+
+
+![RESPONSIVE DESIGN Home page apple_ipad_pro1066X1024 test result:](https://github.com/RNazarian1/ordak_gallery/blob/1b3d951900b1334ca1179e227c96c627bd72fef4/assets/images/readme/apple_ipad_pro1066X1024_resized_half.jpg)
+
+
+
+>- Menue buttons in different pages should react similarly. 
+>- Test indcluds website functions and links to external sites such as facebook, twitter etc.
+>- popup transform images of artwork and inspiration pages are working
+
+<br>
+
+As a result the website is fully fuctionmal on different devices. 
 
 
 
