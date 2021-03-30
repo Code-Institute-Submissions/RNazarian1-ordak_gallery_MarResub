@@ -101,7 +101,7 @@ Here is the result:
 <br>
 
 
-![RESPONSIVE DESIGN application responsive test result](https://github.com/RNazarian1/ordak_gallery/blob/master/assets/images/readme/ami_response_test.jpg)
+![RESPONSIVE DESIGN Home page 24 inches monitor](https://github.com/RNazarian1/ordak_gallery/blob/master/assets/images/readme/ami_response_test.jpg)
 
 
 
