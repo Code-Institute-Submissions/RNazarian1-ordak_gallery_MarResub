@@ -327,7 +327,44 @@ HTML - [W3C](https://validator.w3.org/) - Markup Validation
 CSS - [W3C](https://jigsaw.w3.org/css-validator/) - CSS Validation
 
 
-The validation shows no serious warniong or erro directly regaring the codes however there are many errors and warnings regarding background javascript and bootacamp elements , values and attributes which is beyound this practice.
+The validation shows a series of error which was fixed:
+
+
+>- CSS errors: style.css file
+
+![CSS:]()
+
+
+>- HTML errors : interesting.html and useful.html files
+
+![HTML:]()
+
+all above were fixed.
+
+
+### Microsoft Edge bug:
+The default value for email anchore "target" attribute is  equal to "_self" if the quotation mark is left empty however in Microsoft Edge  "_blank" value is taken therefore by pressing email icon in gooter each page a new contact page was started which was not quite intuitive. Therefore all pages were corrected and value of "_self" is assigned inside the qoutations.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
