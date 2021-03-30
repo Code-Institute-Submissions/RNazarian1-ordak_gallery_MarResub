@@ -76,7 +76,7 @@ this link has test the Ordak Gallery website based on screen sizes (called viewp
 
 Here is the result:
 
-![AMI application responsive test result](https://github.com/RNazarian1/ordak_gallery/blob/6ac77228ee111bcf6095546e0fd7a0b97f7386ac/assets/images/readme/ami_response_test.png)
+![AMI application responsive test result](/workspace/ordak_gallery/assets/images/readme/ami_response_test.png)
 
 As per the image the Ordak Galery website appeas good on different devices.
 
