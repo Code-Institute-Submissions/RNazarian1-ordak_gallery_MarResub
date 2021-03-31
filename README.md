@@ -15,11 +15,11 @@ No artist name no price tag. Think of an online gallery (focusing on painting) w
 ## Readme table of Contents
 > - [Website Overview](#website-overview)
 > - [Website Description and Demonstration](#website-description-and-demonstration)
+>- [Ux](#ux)
 > - [Business Strategy](#business-strategy)
 > - [Business Goal](#business-goal)
-> - [Ux](#ux)
-> - [User Stories](#user-stories)
-> - [Website Features](#website-features)
+> - [Visitor Stories](#visitors-stories)
+> - [Website Feature Scope](#website-feature-scope)
 > - [Technologies Used](#technologies-used)
 > - [Testing](#testing)
 > - [Bug Fixing and Validation](#bug-fixing-and-validation)
@@ -35,29 +35,40 @@ At the end those hwo has sent email will be reached for further advise on buing/
 
 ### Website Description and Demonstration
 
-The website is trying to put an experimental approach into test on art (painting) business by focusing more on the art by itself rather than the other usual galleries where the price and fame of the artist is the heart of the business. 
+The website is trying to put an experimental approach into test on art (painting) business by focusing more on the art by itself rather than the other usual galleries where the price and fame of the artist is the heart of the business or they bombard the visitors with endless informations and options and even non related objects.
 Website benefits from different page entries each has useful material to attract and entertain the visitors.
 
 
+## UX
 
 ### Business Strategy
 
-Usual online galleries provide too many options with a lots of details which is mostly useeful for collectors ,art dealers and investors. Usually displaying the price tag and the name of the artist makes decision very difficult for the visitor. The usual methods creates a distraction for visitors and usually makes the visitor left and right brain lobes fight with eachother therfore most of the time people afraid of going to a gallery for enjoyment and self indulge. Users are always welcome to start a converstion regarding their interest and if they are interested they can evaluate the economical side of it. In case they are not comfortable with the art price an alternative cheeper solution will be provided to them by cunsulting with Ordak Gallery.
+Is it possible to penetrate a market of art (painting) which is saturated, Chaotic and has huge potential at the same time? Most of the artists and art lovers are frustrated by the situation.  Usual online galleries provide too many options with a lots of details which is mostly useeful for collectors ,art dealers and investors. Psichologically displaying the price tag and the name of the artist makes decision very difficult for the any customer or art lover. The usual way or style creates a distraction for visitors and usually makes the visitor brain lobes fight with eachother. Most of the time people are afraid of going to a gallery for enjoyment and self indulge. In our approach we want the users feel they are always welcome to start a converstion about their interest and if they are interested they can evaluate the economical side of it. In case they should be approached in a comfortable and secure way without worrying about their pockets.That is why we  will be providing themfirst with cunsulting through Ordak Gallery.
 
-![Image](https://github.com/RNazarian1/ordak_gallery/blob/master/assets/images/readme/brain_structure_marked_resized.jpg)
 
 ### Business Goal
 - The major goal is to benefit from art markrt business opportunities in a cheatic market which is difficult to penetrate and stay sustainable.
 - There are many talents who are living under the shadow of famous figures or does not have a propper platform to promote their works. It is tried to promote those talents through an innovative approach.
-- The website is focused on painting therefore should be soon a base for many artists
+- The website is focused on painting therefore should be soon a base for many artists 
 - Art market needs different approach to reach paintings and their creators.
 
-## UX/
+![Image](https://github.com/RNazarian1/ordak_gallery/blob/master/assets/images/readme/brain_structure_marked_resized.jpg)
 
-## Website Features
+### Visitors Stories
+
+- Someone who wants a change in her house and add some painting to her house walls need help and advise on choosing them. therefore the gallery could provide her immediate advise via emil or phone without destract her by price tag or artist fame.
+
+- A lawyer who has no art background and wants to make her office attarctive and create a better environment for her clients is asking for help and easily could get idea from the website withought being bombarded by thousands of pieces of art which might create a big confusion for her.
+
+- A doctor whose surgery is already covered by some sad and cold pieces of paintings wants to change them and hang more vibrant paintings which can improve his patients mood and relax them while waiting for their turn. Ordak gallery provides him advise on their need without putting them. 
+
+- An international event organiser wants to rent few art pieces for a top class meeting room requires economic and fresh art pieces withought hassel of searching in the art chaotic market. Ordak Gallery will provide her with quick and economical options while quality and class of the art is guaratied.
+
+## Website Feature Scope
 
 The website has following features: 
 
+-- pages 
 - Home (First page with liks to all aother pages)
 - Art Works (where visitors will watch the art work images)
 - Inspirations (Here user can get inspired by real life experience of an artist)
@@ -65,9 +76,10 @@ The website has following features:
 - Useful Reading (material that increase knowledge and awareness related to art)
 - Contact Us (visitors can send messages/email)
 
->- there is no price tags or artist name or even art piece name listed in the gallery page.
+>- Based on our approach there is no price tags or artist name or even art piece name listed in the gallery page.
 
 Other features such as social media links and a contact phone number are included under each page.
+
 
 
 
@@ -97,12 +109,7 @@ Other features such as social media links and a contact phone number are include
 - More interesting sources for reading and more inspiration places and also places to visit will be added
 - Based on user experience colours may improvement
 
-### Visitors stories
-- A visitor artist pleased by using more vibrant colours at this stage.
-- A site visitor mentioned that the gallery is simple to browse and potentially usefull to learn from
-- Another site visitor menioned about its  nice appearance and also meaningful logo
-
-###  Further fix to be done
+###  Further immediate improvements to be done
 - The menues hover functionality need improvement
 
 
@@ -416,6 +423,6 @@ The default value for email anchore "target" attribute is  equal to "_self" if t
 
 
 ----------------------------------------------------------
-The goal is to promote art by serving the visitors with motivations and finally bring art lovers and artists together with through selected artworks.
+The goal is to promote art by serving the visitors by their  motivations and finally bring art lovers and artists together with through selected artworks.
 
 
