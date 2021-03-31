@@ -77,6 +77,9 @@ Other features such as social media links and a contact phone number are include
 - Images folder have subfolders named after each artists.
 - Under each artist folder there is an artwork and inspiration (insp) folder separating gallery and inspirations files.
 
+![Image](https://github.com/RNazarian1/ordak_gallery/blob/master/assets/images/readme/file_structure.jpg)
+
+
 ### Coding Structure
 - Menue bar and artwork pictures are structured after Bootstrap version is 4.3.1
 - font-awesom link is not added inside the <head></head> because it does not exist under Bootstrap version 4.3.1 and it might not be necessary!!!!
@@ -416,18 +419,3 @@ The default value for email anchore "target" attribute is  equal to "_self" if t
 The goal is to promote art by serving the visitors with motivations and finally bring art lovers and artists together with through selected artworks.
 
 
-#
-
-### Notes
-- Only one artist could send an approval for using her works and the rest of the artist will reply soon.
-- Displayed pictures are permitted to use
-- The home page and general idea is inspired from Mini Project with Bootstrap 4 module
-- The contact form is more or less the same as the initial code of the Mini Project with Bootstrap 4 module
-
-
-
-
-
-
-
-Web site requires to be happy and there should not be any complexity and without any convoluted structure. The target visitor is a vide range specially those who may not be quite familiar with complex type of websites. It is very friendly and easy to navigate. The visitors should feel motivated and benefit from a live environment without getting lost to what they are looking for. The visitors will get to know the art works, artists and concepts behind artworks if they feel good about the art after contacting the gallery and they will learn from the artists original comments and will and inspired by the artists themselves. Artist also will find an environment where they can express themselves not only by their art work but also their own words if visitor shows interest. There is he and educational links or comments.
