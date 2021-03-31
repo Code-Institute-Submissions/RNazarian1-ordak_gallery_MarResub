@@ -65,6 +65,8 @@ The website has following features:
 - Useful Reading (material that increase knowledge and awareness related to art)
 - Contact Us (visitors can send messages/email)
 
+>- there is no price tags or artist name or even art piece name listed in the gallery page.
+
 Other features such as social media links and a contact phone number are included under each page.
 
 
@@ -74,18 +76,18 @@ Other features such as social media links and a contact phone number are include
 - image files are loaded under assets folder\images
 - Images folder have subfolders named after each artists.
 - Under each artist folder there is an artwork and inspiration (insp) folder separating gallery and inspirations files.
-- Bootstrap version is 4.3.1
-- font-awesom link is not added inside the <head></head> because it does not exist under Bootstrap version 4.3.1 and it might not be necessary!!!!
 
 ### Coding Structure
-
-- hover effect is copies from https://cdnjs.com/libraries?q=hover
+- Menue bar and artwork pictures are structured after Bootstrap version is 4.3.1
+- font-awesom link is not added inside the <head></head> because it does not exist under Bootstrap version 4.3.1 and it might not be necessary!!!!
+- hover effect is 'taken' from https://cdnjs.com/libraries?q=hover
 - Galley Rooms is the same as Art Works of the menue. 
 
 ### Potential Future Developments and plans
-- Provide a mini biography (preferreably an autobiography) for artists in general
-- Adding a simple paragfraph to each artwork so visitors could stablish connection with them
+- May be in future a mini biography (preferreably an autobiography) for artists in general will be added
+- Adding a simple paragraph to each artwork so visitors could stablish connection with them
 - Creating a 2D imaginary gallery plot with rooms  and sallons with hovering and selecting capabilities. Each room  is dedicated to a single artist and some exhibitions could be held there.
+- there will be videos and inspirations material to be added in future
 - Possibly a rating system based on number of view , visitor rating, and feedback
 - Adding a filtering system so user can filter the type of art work based on style, demdia , artist etc
 - Sorting system for sorting the displayed pictures
