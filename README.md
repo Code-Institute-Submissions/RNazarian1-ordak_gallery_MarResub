@@ -101,8 +101,7 @@ Other features such as social media links and a contact phone number are include
 
 ###  Further fix to be done
 - The menues hover functionality need improvement
-- There was an error for launching videoes and popup pictures on gitpod so those features are removed but need to be resolved
-- the pdf file under Reading tab does not appear in gitpot but the files and the links are still there
+
 
 
 ## Testing
